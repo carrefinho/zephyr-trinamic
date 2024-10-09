@@ -11,6 +11,7 @@ config TMC_UART
 
 rsource "tmc2130/Kconfig"
 rsource "tmc2209/Kconfig"
+rsource "tmc2300/Kconfig"
 rsource "tmc5160/Kconfig"
 
 endmenu
